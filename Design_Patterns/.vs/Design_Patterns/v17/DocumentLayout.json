@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Server\\Design_Patterns\\Design_Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\builder_folder\\simcontactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\builder_folder\\simcontactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\builder_folder\\contactdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\builder_folder\\contactdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\builder_folder\\phonecontactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\builder_folder\\phonecontactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\contactslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\contactslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\simcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\simcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\phonecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\phonecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\singltone_folder\\singletonprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\singltone_folder\\singletonprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\prototype_folder\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\prototype_folder\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\prototype_folder\\prototyperegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\prototype_folder\\prototyperegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\groupenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\groupenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\builder_folder\\contactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\builder_folder\\contactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\factory_folder\\phonecontactfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\factory_folder\\phonecontactfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\factory_folder\\contactpersonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\factory_folder\\contactpersonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|h:\\server\\design_patterns\\design_patterns\\design_patterns\\factory_folder\\simcontactfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30873C5A-1C80-4D89-8206-8B16227F6C8E}|Design_Patterns\\Design_Patterns.csproj|solutionrelative:design_patterns\\factory_folder\\simcontactfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SingletonPrint.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Singltone_Folder\\SingletonPrint.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Singltone_Folder\\SingletonPrint.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Singltone_Folder\\SingletonPrint.cs",
+              "RelativeToolTip": "Design_Patterns\\Singltone_Folder\\SingletonPrint.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:05:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Prototype_Folder\\IPrototype.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Prototype_Folder\\IPrototype.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Prototype_Folder\\IPrototype.cs",
+              "RelativeToolTip": "Design_Patterns\\Prototype_Folder\\IPrototype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:25:44.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneContactBuilder.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\PhoneContactBuilder.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Builder_Folder\\PhoneContactBuilder.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\PhoneContactBuilder.cs",
+              "RelativeToolTip": "Design_Patterns\\Builder_Folder\\PhoneContactBuilder.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:34:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimContactBuilder.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\SimContactBuilder.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Builder_Folder\\SimContactBuilder.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\SimContactBuilder.cs",
+              "RelativeToolTip": "Design_Patterns\\Builder_Folder\\SimContactBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:34:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimContact.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\SimContact.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\SimContact.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\SimContact.cs",
+              "RelativeToolTip": "Design_Patterns\\SimContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:11:02.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Contact.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Contact.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Contact.cs",
+              "RelativeToolTip": "Design_Patterns\\Contact.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:04:46.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Program.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Program.cs",
+              "RelativeToolTip": "Design_Patterns\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:08:19.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsList.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\ContactsList.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\ContactsList.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\ContactsList.cs",
+              "RelativeToolTip": "Design_Patterns\\ContactsList.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:39:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDirector.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\ContactDirector.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Builder_Folder\\ContactDirector.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\ContactDirector.cs",
+              "RelativeToolTip": "Design_Patterns\\Builder_Folder\\ContactDirector.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA9wCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:35:05.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneContact.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\PhoneContact.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\PhoneContact.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\PhoneContact.cs",
+              "RelativeToolTip": "Design_Patterns\\PhoneContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:12:19.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrototypeRegistry.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Prototype_Folder\\PrototypeRegistry.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Prototype_Folder\\PrototypeRegistry.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Prototype_Folder\\PrototypeRegistry.cs",
+              "RelativeToolTip": "Design_Patterns\\Prototype_Folder\\PrototypeRegistry.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:24:51.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupEnum.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\GroupEnum.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\GroupEnum.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\GroupEnum.cs",
+              "RelativeToolTip": "Design_Patterns\\GroupEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:19:19.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactBuilder.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\ContactBuilder.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Builder_Folder\\ContactBuilder.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Builder_Folder\\ContactBuilder.cs",
+              "RelativeToolTip": "Design_Patterns\\Builder_Folder\\ContactBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:34:03.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhoneContactFactory.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Factory_Folder\\PhoneContactFactory.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Factory_Folder\\PhoneContactFactory.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Factory_Folder\\PhoneContactFactory.cs",
+              "RelativeToolTip": "Design_Patterns\\Factory_Folder\\PhoneContactFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:49:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactPersonFactory.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Factory_Folder\\ContactPersonFactory.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Factory_Folder\\ContactPersonFactory.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Factory_Folder\\ContactPersonFactory.cs",
+              "RelativeToolTip": "Design_Patterns\\Factory_Folder\\ContactPersonFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:53:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimContactFactory.cs",
+              "DocumentMoniker": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Factory_Folder\\SimContactFactory.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Factory_Folder\\SimContactFactory.cs",
+              "ToolTip": "H:\\Server\\Design_Patterns\\Design_Patterns\\Design_Patterns\\Factory_Folder\\SimContactFactory.cs",
+              "RelativeToolTip": "Design_Patterns\\Factory_Folder\\SimContactFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:53:56.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
